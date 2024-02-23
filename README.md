@@ -1,5 +1,4 @@
 - 👋 Hello, I’m King of Midnight
 - 👀 I’m interested in Coding and Basically Anything Minecraft
-- 🌱 I’m currently learning Code (JavaScript and Ruby) 
-- 💞️ I’m looking to collaborate on Minecraft Mods and Plugins
+- 🌱 I’m currently learning Code and Write (Java, JavaScript and Ruby) 
 - 📫 You can to reach me by Using My Discord Server: https://discord.gg/w4R2paEqSW
