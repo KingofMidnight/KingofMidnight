@@ -5,9 +5,6 @@ about: This Template is for People to Request or Get a Commission For a Mod you 
 title: "[MC CM] "
 labels: ''
 assignees: KingofMidnight
-
----
-
 body:
 - type: dropdown
   id: type
@@ -19,3 +16,6 @@ body:
       - Other
   validations:
     required: true
+
+---
+
