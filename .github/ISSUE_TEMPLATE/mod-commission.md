@@ -2,8 +2,6 @@
 name: Mod Commission
 about: This Template is for People to Request or Get a Commission For a Mod you wish
   to be Made
-title: "[MC CM] "
-labels: ''
 assignees: KingofMidnight
 body:
 - type: dropdown
@@ -14,8 +12,6 @@ body:
       - Forge
       - Fabric
       - Other
-  validations:
-    required: true
 
 ---
 
