@@ -8,4 +8,16 @@ assignees: KingofMidnight
 
 ---
 
-Minecraft Type: Forge or Fabric
+body:
+- type: dropdown
+  id: type
+  attributes:
+    label: Minecraft Type?
+    options:
+      - Forge
+      - Fabric
+      - Other
+  validations:
+    required: true
+
+  
