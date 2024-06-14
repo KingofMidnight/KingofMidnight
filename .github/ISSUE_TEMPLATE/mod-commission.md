@@ -2,20 +2,13 @@
 name: Mod Commission
 about: This Template is for People to Request or Get a Commission For a Mod you wish
   to be Made
+title: "[MC CM] "
+labels: ''
 assignees: KingofMidnight
-
-
-
-
-body:
-- type: dropdown
-  id: type
-  attributes:
-    label: Minecraft Type?
-    options:
-      - Forge
-      - Fabric
-      - Other
 
 ---
 
+Minecraft Type: Forge or Fabric
+[              ]
+Minecraft Version?
+[              ] 
