@@ -19,5 +19,3 @@ body:
       - Other
   validations:
     required: true
-
-  
