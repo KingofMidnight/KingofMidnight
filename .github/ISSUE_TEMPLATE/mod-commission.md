@@ -8,8 +8,9 @@ assignees: KingofMidnight
 
 ---
 
-###Minecraft Type: Forge or Fabric
-- Forge: [ ]
-- Fabric: [ ]
-Minecraft Version?
+# Minecraft Type: Forge or Fabric
+- [ ] Forge
+- [ ] Fabric
+
+# Minecraft Version?
 [              ] 
