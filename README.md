@@ -6,4 +6,4 @@
 # Commissions
 - Open Commission, Making Mods of Blocks and Items
 - Unable to Make Textures and Custom Models unless Super Easy
-- Commissions are in https://github.com/KingofMidnight/KingofMidnight
+- Commissions are in https://github.com/KingofMidnight/KingofMidnight/issues
